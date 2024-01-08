@@ -13,8 +13,12 @@ console.log(yourSurname);
 const favColor = prompt("Qual é il tuo colore preferito?");
 console.log(favColor);
 
+// Definizione anno corrente
+let currentYear = 24;
+console.log(currentYear);
+
 // Creazione nome utente
-const nickname = yourName + yourSurname + favColor + 24;
+const nickname = yourName + yourSurname + favColor + currentYear;
 console.log(nickname);
 
 // Stampo la variabile del nickname
