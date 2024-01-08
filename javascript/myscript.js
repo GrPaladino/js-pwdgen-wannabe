@@ -14,7 +14,7 @@ const favColor = prompt("Qual é il tuo colore preferito?");
 console.log(favColor);
 
 // Definizione anno corrente
-let currentYear = 24;
+let currentYear = "24";
 console.log(currentYear);
 
 // Creazione nome utente
